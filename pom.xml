@@ -6,7 +6,7 @@
 
     <groupId>io.github.darkings1990</groupId>
     <artifactId>fast-request-script</artifactId>
-    <version>2024.3</version>
+    <version>2024.4</version>
 
     <description>script class of IntelliJ idea plugin fast request</description>
     <url>https://github.com/kings1990/fast-request-script</url>
